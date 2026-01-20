@@ -62,7 +62,7 @@ This dashboard allows drill-down analysis at an individual employee level, inclu
 ## 📂 Tableau Workbook
 The complete interactive dashboard is available in the Tableau packaged workbook file:
 
-- **HR-Dashboard-(UC).twbx**
+- **HR-Dashboard.twbx**
 
 This file contains the full dashboard along with embedded data and can be opened using **Tableau Desktop** or **Tableau Public**.
 
